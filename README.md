@@ -9,6 +9,13 @@ So in order to login you must to enter datas as shown below, and then press "Log
 ![login and password section](https://user-images.githubusercontent.com/73636880/111795279-3a354e80-88f1-11eb-9f0a-299695d60daf.PNG)
 
 As a password enter: "12345"
+If you entered datas correctly and login, you will see the next result:
+
+![second page](https://user-images.githubusercontent.com/73636880/111795748-ad3ec500-88f1-11eb-8571-2941a8bb721b.PNG)
+
+This is the our second page. Here we added some buttons as "Log out" and "Types of Music"
+If you press the "Log out" button, you will go to the first log in form again and if you want to see the Types of Music just press the "Types of music" button as well.
+The result will be this:
 
 
 
