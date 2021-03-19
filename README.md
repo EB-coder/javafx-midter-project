@@ -1,1 +1,1 @@
-# javafx-midter-project
+# javafx-midterm-project
