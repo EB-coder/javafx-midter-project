@@ -14,8 +14,18 @@ If you entered datas correctly and login, you will see the next result:
 ![second page](https://user-images.githubusercontent.com/73636880/111795748-ad3ec500-88f1-11eb-8571-2941a8bb721b.PNG)
 
 This is the our second page. Here we added some buttons as "Log out" and "Types of Music"
+
+![bar section](https://user-images.githubusercontent.com/73636880/111797158-183ccb80-88f3-11eb-91cf-d02f963ad192.PNG)
+
 If you press the "Log out" button, you will go to the first log in form again and if you want to see the Types of Music just press the "Types of music" button as well.
 The result will be this:
+
+![third page](https://user-images.githubusercontent.com/73636880/111797186-1ecb4300-88f3-11eb-80d5-354fd767ee6d.PNG)
+
+Here we go! We are on the third page.
+So in order to switch to the previous page use "Back" button
+
+
 
 
 
