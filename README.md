@@ -15,11 +15,11 @@ Enter the data correctly:
 
 If you entered datas correctly and login, you will see the next result:
 
-![second page](https://user-images.githubusercontent.com/73636880/111795748-ad3ec500-88f1-11eb-8571-2941a8bb721b.PNG)
+![second2](https://user-images.githubusercontent.com/73636880/111822153-a45bec80-890d-11eb-899b-53e196a38e2c.PNG)
 
-This is the our second page. Here we added some buttons as "Log out" and "Types of Music"
+This is the our second page. Here we added some buttons such as "Log out","Types of Music","Circle" and "Rectangle"
 
-![bar section](https://user-images.githubusercontent.com/73636880/111797158-183ccb80-88f3-11eb-91cf-d02f963ad192.PNG)
+![button tools](https://user-images.githubusercontent.com/73636880/111822178-ac1b9100-890d-11eb-8329-2cb9603ac192.PNG)
 
 If you press the "Log out" button, you will go to the first log in form again and if you want to see the Types of Music just press the "Types of music" button as well.
 The result will be this:
@@ -30,6 +30,10 @@ Here we go! We are on the third page.
 So in order to switch to the previous page use "Back" button
 
 ![back button](https://user-images.githubusercontent.com/73636880/111797956-ccd6ed00-88f3-11eb-99cb-27dc16eb83d5.PNG)
+
+And also you can play with Circle and Rectangle buttons, it will look like this:
+
+![game](https://user-images.githubusercontent.com/73636880/111822189-b0e04500-890d-11eb-9a61-f9871f41043f.PNG)
 
 Video presentation:
 
